@@ -202,7 +202,7 @@ export default function Dashboard() {
         </Card>
 
         {/* CSV UPLOAD */}
-        <Card>
+        {/* <Card>
           <CardHeader>
             <CardTitle>Bulk CSV Upload</CardTitle>
           </CardHeader>
@@ -218,7 +218,7 @@ export default function Dashboard() {
             </Button>
 
           </CardContent>
-        </Card>
+        </Card> */}
 
       </div>
 
